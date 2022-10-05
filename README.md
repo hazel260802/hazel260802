@@ -20,17 +20,18 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center"> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Hazel Le</h1>
 
 
+<p  align="center" height= "300px"  width="auto"><img src="https://user-images.githubusercontent.com/87821296/194144561-147e4a15-aae2-4055-8552-dc440d02905d.gif"></p>
+
 ### :woman_technologist: &nbsp;About Me :
 
-<p  align="right" height= "300px"  width="auto"><img src="https://user-images.githubusercontent.com/87821296/194144561-147e4a15-aae2-4055-8552-dc440d02905d.gif"></p>
-<p align="left" width="auto">
 I am pursuing to become a Backend Developer.
 
 - 🔭 I’m working as a Software Engineer and contributing to backend for building web applications.
 - 🌱 Currently building a mini project on [NodeJS](https://github.com/hazel260802/NodeJS)
 - ⚡ All of my projects are available at [Hazel repository](https://github.com/hazel260802)
 - 📫 How to reach me: **lehuyentrang260802@gmail.com**
-</p>
+
+
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
@@ -58,6 +59,7 @@ I am pursuing to become a Backend Developer.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hazel260802&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![Hazel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hazel260802&show_icons=true&theme=vision-friendly-dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazel260802&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
