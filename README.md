@@ -3,33 +3,34 @@
 hazel260802/hazel260802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="center"><img src="profile.gif" width="100"/></p>
-<div id="badges">
+<p align="center"><img src="https://user-images.githubusercontent.com/87821296/194144961-2e25af55-abc2-49ab-afb3-bafd13e68158.gif " width="200"></p>
+<div id="badges" align="center">
+  <a href="https://www.facebook.com/profile.php?id=100004251855477">
+    <img src="https://img.shields.io/badge/Facebook-yellow?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook Badge"/>
+  </a> 
   <a href="https://www.linkedin.com/in/trang-lê-9618961ba">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100004251855477">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
   <a href="lehuyentrang260802@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=rose" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=hazel26082&label=Profile%20views&color=0e75b6&style=flat" alt="hazel" /> </p>
 
 <h1 align="center"> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Hazel Le</h1>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am pursuing to become a Backend Developer <img src="coder.gif" width="30">.
+<p  align="right" height= "300px"  width="auto"><img src="https://user-images.githubusercontent.com/87821296/194144561-147e4a15-aae2-4055-8552-dc440d02905d.gif"></p>
+<p align="left" width="auto">
+I am pursuing to become a Backend Developer.
 
 - 🔭 I’m working as a Software Engineer and contributing to backend for building web applications.
-- 🌱 Currently building a mini project on [NodeJS](https://github.com/NHIMCOII/PipGo-Server](https://github.com/hazel260802/NodeJS)
+- 🌱 Currently building a mini project on [NodeJS](https://github.com/hazel260802/NodeJS)
 - ⚡ All of my projects are available at [Hazel repository](https://github.com/hazel260802)
 - 📫 How to reach me: **lehuyentrang260802@gmail.com**
-
+</p>
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
@@ -56,9 +57,7 @@ I am pursuing to become a Backend Developer <img src="coder.gif" width="30">.
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hazel260802&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![GitHub Status](http://github-readme-stats.vercel.app/api?user=hazel260802&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats![coder](https://user-images.githubusercontent.com/87821296/194139286-7e03ede8-b22d-44dc-80ea-2ea95e153b0f.gif)
-)
-
+![Hazel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hazel260802&show_icons=true&theme=vision-friendly-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazel260802&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
@@ -66,4 +65,5 @@ I am pursuing to become a Backend Developer <img src="coder.gif" width="30">.
 ### ✍️ Achievements: 
 - [Responsive Web Design](https://www.freecodecamp.org/certification/fcc0c601d87-4215-4421-b07a-122c19c47fbe/responsive-web-design)
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fcc0c601d87-4215-4421-b07a-122c19c47fbe/javascript-algorithms-and-data-structures)
+
 
