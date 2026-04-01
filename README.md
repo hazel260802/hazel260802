@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/trang-lê-9618961ba">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="lehuyentrang260802@gmail.com">
+  <a href="lehuyentrang.workmail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
@@ -20,14 +20,14 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center"> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Hazel</h1>
 
 
-<p  align="center" height= "300px"  width="auto"><img src="https://user-images.githubusercontent.com/87821296/194144561-147e4a15-aae2-4055-8552-dc440d02905d.gif"></p>
+<p  align="center" height= "300px"  width="auto"><img src="![ava](https://github.com/user-attachments/assets/1a230337-322a-4b67-9411-bc3b393d10d9)"></p>
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am pursuing to become a Backend Developer.
+I am pursuing to become a Computer Network in AIOT Architecture & Blockchain W3App Technology.
 
-- 🔭 I’m working as a Software Engineer and contributing to backend for building web applications.
-- 🌱 Currently building a mini project on [NodeJS](https://github.com/hazel260802/NodeJS)
+- 🔭 I’m working as a Software Engineer and contributing to zero-knowledge proof for building D3Applications.
+- 🌱 Currently building a mini project on [CICT Competition](https://github.com/CICTProject/iot-embedded-systems)
 - ⚡ All of my projects are available at [Hazel repository](https://github.com/hazel260802)
 - 📫 How to reach me: **lehuyentrang260802@gmail.com**
 
@@ -56,16 +56,15 @@ I am pursuing to become a Backend Developer.
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hazel260802&theme=dark&background=000000)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=hazel260802&theme=vision-friendly-dark&hide_border=true)
 
-![Hazel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hazel260802&show_icons=true&theme=vision-friendly-dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazel260802&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hazel260802&theme=github_dark)
 
 ---
 
 ### ✍️ Achievements: 
 - [Responsive Web Design](https://www.freecodecamp.org/certification/fcc0c601d87-4215-4421-b07a-122c19c47fbe/responsive-web-design)
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fcc0c601d87-4215-4421-b07a-122c19c47fbe/javascript-algorithms-and-data-structures)
+- [Udemy NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://github.com/hazel260802/NodeJS)
 
 
