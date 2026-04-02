@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am pursuing to become a Computer Network in AIOT Architecture & Blockchain W3App Technology.
+I am pursuing to become a Computer Network Researcher in AIOT Architecture & Blockchain W3App Technology.
 
 - 🔭 I’m working as a Software Engineer and contributing to zero-knowledge proof for building D3Applications.
 - 🌱 Currently building a mini project on [CICT Competition](https://github.com/CICTProject/iot-embedded-systems)
