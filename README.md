@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 I am pursuing to become a Computer Network Researcher in AIOT Architecture & Blockchain W3App Technology.
 
 - 🔭 I’m working as a Software Engineer and contributing to zero-knowledge proof for building D3Applications.
-- 🌱 Currently building a mini project on [CICT Competition](https://github.com/CICTProject/iot-embedded-systems)
+- 🌱 Currently building a mini project on [CICT Competition](https://github.com/CICTProject), [D4Gen Competition](https://github.com/D4GenHackathon), and [M2 Internship](https://github.com/TTGenProject)
 - ⚡ All of my projects are available at [Hazel repository](https://github.com/hazel260802)
 - 📫 How to reach me: **lehuyentrang260802@gmail.com**
 
