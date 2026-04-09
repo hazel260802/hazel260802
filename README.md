@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center"> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Hazel</h1>
 
 
-<p  align="center" height= "300px"  width="auto"><img src="ava.jpg"></p>
+<p  align="center" height= "300px"  width="auto"><img src="cute moments.gif"></p>
 
 ### :woman_technologist: &nbsp;About Me :
 
