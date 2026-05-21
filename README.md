@@ -34,8 +34,7 @@ I am pursuing to become a Computer Network Researcher in AIOT Architecture & Blo
 ---
 
 ### 🔥 &nbsp; My Stats :
-![GitHub Streak](https://streak-stats.demolab.com?user=hazel260802&theme=vision-friendly-dark&hide_border=true)
-
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=hazel260802&theme=vision-friendly-dark&hide_border=true)
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hazel260802&theme=github_dark)
 
 ---
