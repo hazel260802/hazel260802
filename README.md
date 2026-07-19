@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 
   <a href="https://www.linkedin.com/in/huyentrang-le">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
 
   <a href="mailto:lehuyentrang.workmail@gmail.com">
